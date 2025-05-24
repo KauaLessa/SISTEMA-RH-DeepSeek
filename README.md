@@ -4,6 +4,13 @@ Projeto educativo avançado para simulação de processos seletivos com machine 
 
 ---
 
+## EQUIPE:
+1. Kauã Lessa Lima dos Santos
+2. Luís Felipe Barros Pacheco
+3. Diêgo de Araujo Correia
+   
+---
+
 ## PRÉ-REQUISITOS E INSTALAÇÃO
 
 * Python 3.8 ou superior
