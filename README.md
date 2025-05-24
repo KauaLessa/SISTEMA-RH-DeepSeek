@@ -1,6 +1,6 @@
 # SISTEMA-RH-DeepSeek
 
-Projeto educativo avançado para simulação de processos seletivos com machine learning e interface gráfica integrada. Este mini-projeto foi desenvolvido durante a disciplina ECOM031 - INTELIGÊNCIA ARTIFICIAL. Este mini-projeto combina modelagem preditiva, explicações de IA (SHAP) e uma interface interativa para análise de candidatos. Desenvolvido para estudos de sistemas de decisão interpretáveis em RH com experiência de usuário aprimorada. Projeto acadêmico sem aplicação em processos reais.
+Projeto educativo para simulação de processos seletivos com machine learning e interface gráfica integrada. Este mini-projeto foi desenvolvido durante a disciplina ECOM031 - INTELIGÊNCIA ARTIFICIAL. Este mini-projeto combina modelagem preditiva, explicações de IA (SHAP) e uma interface interativa para análise de candidatos. Desenvolvido para estudos de sistemas de decisão interpretáveis em RH com experiência de usuário aprimorada. Projeto acadêmico sem aplicação em processos reais.
 
 ---
 
